@@ -1,0 +1,9 @@
+{
+  "appId": "com.ahmed.shalloot",
+  "appName": "شلووت",
+  "webDir": "www",
+  "backgroundColor": "#050b16",
+  "android": {
+    "allowMixedContent": false
+  }
+}
